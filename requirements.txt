@@ -1,0 +1,11 @@
+** Библиотеки **
+pandas
+numpy
+re
+nltk
+matplotlib.pyplot
+seaborn
+sklearn
+kagglehub
+os
+tensorflow
